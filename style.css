@@ -1,9 +1,85 @@
-/* body{
+.footer{
+    background-color: #2F6BA1;
+    height: 2.5%;    
+    bottom: 0px;
+    /* position: fixed; */
+    /* width: 1200px; */
+}
+
+.ftr-txt{
+    /*background-color: #2F6BA1;*/
+    color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
-    width: 1200px;
-    margin-right: auto;
-    margin-left: auto;
-} */
+    font-style: italic;
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+    /* position: fixed; */
+    /* width: 1200px; */
+}
+
+.ftr-txt2{
+
+    background-color: #ececec;
+    height: 0px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+    padding-right:207px;
+    padding-left:207px;
+    padding-top:5px;
+    padding-bottom:5px;
+    width: 100px;
+}
+.ftr-txt3{
+
+    background-color: #1c4161;
+    height: 2.5%;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    margin-left: 0%;
+    padding-top:0.01%;
+}
+
+.ftr-centered-bold-text{
+
+    color: #ffff;
+    letter-spacing: 3px;
+    height: 30%;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    margin-left: 15%;
+
+}
+
+.ftr-right-bold-text{
+    text-align: right;
+    color: #ffff;
+    letter-spacing: 3px;
+    height: 30%;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    margin-left: 10%;
+
+}
+.ftr-centered-text{
+
+    line-height: 1.4;
+    color: #ffff;
+    height: 30%;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    margin-left: 20%;
+
+}
+
 
 
 .equipo{
@@ -28,7 +104,7 @@
 .foto{
     width: 100%;
 }
-=======
+
 .noticias{
     background-color: lightblue;
     display: flex;
@@ -74,7 +150,7 @@ width: 187,5px;
 height: 149,6px;    
 padding-right: 30px;
 }
-=======
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     width:1200px;
@@ -161,4 +237,5 @@ body{
     align-items: center;
     height:250px;
 }
+
 
