@@ -5,6 +5,7 @@
     margin-left: auto;
 } */
 
+
 .equipo{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #2F6BA1;
@@ -27,3 +28,137 @@
 .foto{
     width: 100%;
 }
+=======
+.noticias{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.noticias_contenedor{
+    display: flex;
+    margin: 6px;
+    border: 6px;
+    width: 588px;
+    height: 240px;
+
+}
+
+.titulo_noticia{
+    margin-top: 19.2px;
+    margin-bottom: 19.2px;
+    text-align: left;
+}
+
+.noticia_linea{
+    color:white;
+    width: 286px;
+    margin-top: 8 px;
+    margin-bottom: 8 px;
+}
+
+.noticia_parrafo{
+height: 110px;
+width: 288px;    
+text-align: justify;
+}
+
+.noticia_link{
+text-align: right;
+font-size: 12px;
+}
+
+.noticias_imagen{
+width: 187,5px;
+height: 149,6px;    
+padding-right: 30px;
+}
+=======
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width:1200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/* .contenedor{
+
+    height: 100%;
+    background-color:rgb(21, 95, 231);
+} */
+/* Color de la cabecera */
+.header{
+    background-color: #2F6BA1;
+    padding:0.1rem 0;
+    margin-bottom: 10px;
+
+
+}
+/* Color de las letras del menu */
+.header a{
+    color:black;
+    text-decoration:none;
+}
+
+.barra-superior{
+    display: flex;
+    align-items: center;
+    height: 55px;
+    
+
+}
+.titulo-principal{
+    width:25%;
+    text-align: center;
+    letter-spacing: 4px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.contenedor-menu{
+    width: 75%;
+}
+.contenedor-menu ul{
+    margin:0;
+    padding:0;
+    list-style: none;
+    font-weight: bold;
+
+}
+.contenedor-menu ul li a{
+    display: block;
+    padding: 1rem 1rem;
+    font-size: 20px;
+}
+
+.menu-principal{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+
+}
+
+.menu-principal__item > a{
+
+    text-decoration: none;
+    
+}
+/* Color del menu con cursor */
+.menu-principal__item > a:hover{
+
+    font-size:  20px;
+    text-decoration: none;
+    background-color:#3A85C7;
+    transition: all 0.5s linear;
+    border-radius: 5px;
+
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:250px;
+}
+
