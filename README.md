@@ -38,6 +38,7 @@ Integrantes: Desarrolladores Frontend
              Maria Paola Gomez
              Leon Dario Piedrahita
              Luis Felipe Garavito
+             Andres Felipe Bedoya
 
 
 
