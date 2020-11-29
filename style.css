@@ -1,1 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
 
+.equipo{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: teal;
+    display: flex;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.miembro{
+    margin: 10px;
+    width: 20%;
+}
+
+.nombre{
+    text-align: center;
+    color: tan;
+}
+
+.foto{
+    width: 100%;
+}
