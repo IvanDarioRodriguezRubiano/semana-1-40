@@ -1,19 +1,22 @@
 body{
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     width:1200px;
 
 }
 
-.contenedor{
+/* .contenedor{
 
-    height: 100000px;
-}
+    height: 100%;
+    background-color:rgb(21, 95, 231);
+} */
+/* Color de la cabecera */
 .header{
-    background-color:  rgb(21, 95, 231);
+    background-color: #2F6BA1;
     padding:0.1rem 0;
 
 
 }
+/* Color de las letras del menu */
 .header a{
     color:black;
     text-decoration:none;
@@ -30,7 +33,7 @@ body{
     width:25%;
     text-align: center;
     letter-spacing: 4px;
-    font-family: sans-serif;
+    
 }
 .contenedor-menu{
     width: 75%;
@@ -43,6 +46,7 @@ body{
 .contenedor-menu ul li a{
     display: block;
     padding: 1rem 1rem;
+    font-size: 20px;
 }
 
 .menu-principal{
@@ -56,12 +60,13 @@ body{
 
     text-decoration: none;
     
-    }
+}
+/* Color del menu con cursor */
 .menu-principal__item > a:hover{
 
     font-size:  20px;
     text-decoration: none;
-    background-color: rgba(116, 134, 238, 0.527);
+    background-color:#3A85C7;
     transition: all 0.5s linear;
     border-radius: 5px;
 
