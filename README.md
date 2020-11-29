@@ -1,4 +1,5 @@
-#Presentación
+# Presentación
+
 Este es un sitio web desarrollado con html y css en vsc por un grupo de trabajo de cinco personas como evaluación de lo aprendido durante la primera semana del tercer ciclo del curso de programación del Ministerio de las Tecnologías de la Información y las Comunicaciones orientado por la Universidad Tecnológica de Pereira. 
 El sitio web se divide en cinco secciones, cada una realizada por un integrante del equipo:
 
