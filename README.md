@@ -1,4 +1,9 @@
-# Sección 1
+#Presentación
+Este es un sitio web desarrollado con html y css en vsc por un grupo de trabajo de cinco personas como evaluación de lo aprendido durante la primera semana del tercer ciclo del curso de programación del Ministerio de las Tecnologías de la Información y las Comunicaciones orientado por la Universidad Tecnológica de Pereira. 
+El sitio web se divide en cinco secciones, cada una realizada por un integrante del equipo:
+
+
+## Sección 1
 Se crean los diferentes contenedores con su respectiva información y nombre de clase, se ingresa la imagen de banner en la carpeta que contiene el index y el texto.
 Se organiza el menu para que quede a la derecha y de manera horizontal y el titulo de la página a la izquierda.
 Al contenedor padre le doy la propiedad display flex para que quede un elemento al lado del otro.
